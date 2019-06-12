@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hamburger_meme_4554.wsgi:application
